@@ -6,4 +6,5 @@ Advanced Calendar also has:
 
 1) A digital clock showing current time. 
 2) A digital stopwatch. 
-3) An alarm system. User can set an alarm for a time of their choice. The alarm will go off when the time comes (As long as the application is running in the background) 4) A schedular. User can set an reminder for a time and time of their choice. The reminder will go off when the time comes (As long as the application is running in the background). The reminders are also indicated on the calendar. 
+3) An alarm system. User can set an alarm for a time of their choice. The alarm will go off when the time comes (As long as the application is running in the background).
+4) A schedular. User can set an reminder for a time and time of their choice. The reminder will go off when the time comes (As long as the application is running in the background). The reminders are also indicated on the calendar. 
